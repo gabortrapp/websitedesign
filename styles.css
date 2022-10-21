@@ -1,0 +1,96 @@
+.container {
+    border: 2px solid #69696f;
+    padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+    background-color: white;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    background-color:  #F0FFF0;
+}
+
+.color-label {
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    margin: 10px auto;
+    border-radius: 25px;
+    width: 30%;
+    border: black solid 1px;
+    vertical-align: middle;
+    padding: 10px;
+    min-height: 200px;
+    overflow:hidden
+}
+
+.label-text {
+    vertical-align: middle;
+    font-size: 80%;
+}
+
+#honey-dew {
+    background-color: #F0FFF0;
+}
+
+#dark-slate-grey {
+    background-color: #2F4F4F;
+    color: #DAA520;
+}
+
+#golden-rod {
+    background-color: #DAA520;
+    color: #2F4F4F;
+}
+
+.roboto-font {
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto-mono-font {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.raleway-font {
+    font-family: 'Raleway', sans-serif;
+}
+
+.h1-main-heading {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.p-paragraph {
+    font-size: 18px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-style: normal;
+}
+
+ul {
+    font-size: 18px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-style: normal; 
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
